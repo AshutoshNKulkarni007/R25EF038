@@ -4,3 +4,5 @@ I am Ashutosh N Kulkarni from CSE 3rd Semester section B. The repository is for 
 I am learning python. It is a very powerful language that can be used in AI.
 
 My interest is in Cloud computing.
+
+Goal: want to contribute to open source. 
