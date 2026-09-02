@@ -5,4 +5,9 @@ I am learning python. It is a very powerful language that can be used in AI.
 
 My interest is in Cloud computing.
 
-Goal: want to contribute to open source. 
+Goal: want to contribute to open source. git 
+
+## Projects 
+Fintracker
+
+Fintracker is a personal finance tracker built for the gen-z. this is a very useful app that allows you to check your expeneses and plan your monthly finances accordingly. 
